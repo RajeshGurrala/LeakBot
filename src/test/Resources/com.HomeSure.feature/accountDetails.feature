@@ -1,3 +1,4 @@
+@customerDetails
 Feature: updating customer account details
 
   Scenario: admin should be able to check the account details of a particular customer using a valid token and account id
